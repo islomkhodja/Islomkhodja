@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Islomkhodja! You can call me Isa!
+### Hi there 👋 I'm Islomkhodja! You can call me Islom or Isa!
 
 ![Islomkhodja's github stats](https://github-readme-stats.vercel.app/api?username=Islomkhodja&show_icons=true&theme=cobalt)
 
@@ -12,6 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-->
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuminjonGuru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islomkhodja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
