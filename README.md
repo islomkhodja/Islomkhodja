@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Islomkhodja! You can call me Islom or Isa!
 
+<a href="https://www.codewars.com/users/islomkhodja"><img src="https://www.codewars.com/users/islomkhodja/badges/small" alt="codewars"></a>
+
 <!--
 
 ![Islomkhodja's github stats](https://github-readme-stats.vercel.app/api?username=Islomkhodja&show_icons=true&theme=cobalt)
