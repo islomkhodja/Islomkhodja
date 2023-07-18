@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Islomkhodja! You can call me Islom or Isa!
+### Hi there 👋 I'm Islomkhodja! You can call me Islom!
 
 #### You will find here my experimental and draft projects!
 
